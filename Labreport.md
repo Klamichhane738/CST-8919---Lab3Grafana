@@ -170,7 +170,4 @@ Manually created a Log Analytics workspace, which resolved the issue.
 ## Conclusion  
 This lab demonstrated the installation and configuration of Grafana on an Ubuntu server, the integration of Azure Monitor for performance data collection, and the creation of a monitoring dashboard. By following these steps, users can effectively monitor their server's performance using Grafana's visualization capabilities.
 
-## Deliverables  
-- A functioning Grafana dashboard showing Ubuntu server performance metrics  
-- Screenshots documenting the setup process and the final dashboard  
-- A brief report describing the steps taken and any issues encountered
+
